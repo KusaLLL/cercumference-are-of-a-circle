@@ -1,2 +1,2 @@
-# cercumference-are-of-a-circle
-this programme will calculate the cercumference and area of a circle according to the user input radius
+# circumference-area-of-a-circle
+this program will calculate the circumference and area of a circle according to the user input radius
